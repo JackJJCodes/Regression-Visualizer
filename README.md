@@ -12,6 +12,7 @@ Visualize Linear Regression like never before!
 3. I have also implemented Polynomial Regression using Tensorflow.js and p5.js. I will be putting up more visualizations soon!.
 
 # Demo:
-<!-- <div align="center">
-  <img src="https://github.com/JackJJCodes/Regression-Visualizer/blob/main/vids/LinearRegression.mp4" width="100%">
-</div> -->
+<div align="left">
+  <img src="https://github.com/JackJJCodes/Regression-Visualizer/blob/main/vids/LinearReg.gif" width="40%">
+  <img src="https://github.com/JackJJCodes/Regression-Visualizer/blob/main/vids/PolyReg.gif" width="40%">
+</div>
